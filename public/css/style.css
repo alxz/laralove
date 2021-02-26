@@ -1,0 +1,24 @@
+body {
+    background: #fff;
+}
+
+nav {
+    margin-bottom: 15px;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.card-img {
+    height: 200px;
+    background-position: center center;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    object-fit: contain;
+}
+
+.card-img .card-author {
+    margin-bottom: 10px;
+}
